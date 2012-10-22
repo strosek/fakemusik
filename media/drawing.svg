@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64px"
+   height="64px"
+   id="svg2993"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="drawing.svg"
+   inkscape:export-filename="/home/edcg/projects/fakemusic/media/drawing.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs2995">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3905">
+      <stop
+         style="stop-color:#445500;stop-opacity:1;"
+         offset="0"
+         id="stop3907" />
+      <stop
+         style="stop-color:#eeffaa;stop-opacity:1"
+         offset="1"
+         id="stop3909" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3905"
+       id="linearGradient3911"
+       x1="-6.1855669"
+       y1="51.285225"
+       x2="85.910652"
+       y2="23.106529"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8.2307229"
+     inkscape:cx="31.366525"
+     inkscape:cy="26.493065"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="975"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3017" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2998">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <rect
+       id="rect3038"
+       width="64"
+       height="64"
+       x="0"
+       y="0"
+       style="fill:url(#linearGradient3911);fill-opacity:1;stroke:#000000;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-size:43.94844055000000083px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2b1100;fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
+       x="-8.4116697"
+       y="41.969635"
+       id="text3001"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.97659062,-0.17952484,0.1772362,0.99138951,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3003"
+         x="-8.4116697"
+         y="41.969635">FM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.00639819999999958px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#aa0000;fill-opacity:1;stroke:none;font-family:URW Chancery L;-inkscape-font-specification:URW Chancery L Bold Italic"
+       x="3.8483214"
+       y="59.347153"
+       id="text3009"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3011"
+         x="3.8483214"
+         y="59.347153"
+         style="font-weight:bold;-inkscape-font-specification:URW Chancery L Bold Italic;fill:#aa0000">fake</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.00938988000000052px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2b1100;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:'deccurs.pcf'"
+       x="27.75168"
+       y="54.902081"
+       id="text3013"
+       sodipodi:linespacing="125%"
+       transform="scale(0.91886327,1.0883012)"><tspan
+         sodipodi:role="line"
+         id="tspan3015"
+         x="27.75168"
+         y="54.902081"
+         style="font-size:12.25035762999999989px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Fixed Medium;fill:#2b1100">MUSIC</tspan></text>
+  </g>
+</svg>
